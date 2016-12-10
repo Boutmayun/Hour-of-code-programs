@@ -1,3 +1,6 @@
+#Question: find exponents of a number if the base and the exponent is given.
+#Catch: you can use only addition and subtraction
+#this was supposedly easy, but took me a while to figure out.enjoy!
 n=input('Enter number:')
 ex=input('Enter exponent:')
 ans=0
